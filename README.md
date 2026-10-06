@@ -12,7 +12,7 @@ Web Application Development (DAW) student from Spain, building my way towards **
 **DevOps:** Docker · GitHub Actions · Linux  
 **Security:** OWASP Top 10 · CodeQL · Semgrep · Trivy
 ### 🧠 Interested in:
-**How LLMs can help defend systems, and how to secure LLM apps themselves (OWASP Top 10 for LLMs)
+How LLMs can help defend systems, and how to secure LLM apps themselves (OWASP Top 10 for LLMs)
 ### 🌱 Currently learning
 Kubernetes · Cloud (AWS/GCP) · Machine Learning · German 🇩🇪
 
